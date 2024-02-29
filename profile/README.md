@@ -6,6 +6,7 @@ At Alluvia Studio, we are more than just a creative firm; we are a team of dedic
 
 🚀 Stay tuned as we expand our repertoire of open-source offerings, empowering professionals in the MedTech field with the tools they need to thrive in today's dynamic landscape. Join us on our journey to revolutionize marketing and design in the medical technology sector, one line of code at a time.
 
+<!--
 ## About Us
 
 **Who We Are**: Meet our team of seasoned professionals who have traversed the medical landscape, from developing groundbreaking medical devices to publishing clinical research. 
@@ -13,8 +14,6 @@ At Alluvia Studio, we are more than just a creative firm; we are a team of dedic
 **Our Experience**: With firsthand experience in various healthcare settings, including the ICU, OR, and med/surg units, we understand the intricacies of patient care and the challenges faced by healthcare providers.
 
 **Our Approach**: Our intimate knowledge of the medical industry enables us to immerse ourselves in our clients' challenges, delivering tailored and effective marketing solutions.
-
-<!--
 
 **Here are some ideas to get you started:**
 
