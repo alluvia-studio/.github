@@ -1,10 +1,10 @@
-## Empower. Innovate. Inspire. Alluvia Studio.
+# Empower. Innovate. Inspire. Alluvia Studio.
 
 At Alluvia Studio, we are more than just a creative firm; we are a team of dedicated professionals with a deep understanding of the medical industry. Our journey has taken us through hospital corridors, boardrooms, and research labs, allowing us to gain invaluable insights and expertise.
 
 Stay tuned as we continue to expand our repertoire of open-source offerings, empowering professionals in the MedTech field with the tools they need to thrive in today's dynamic landscape. Join us on our journey to revolutionize marketing and design in the medical technology sector, one line of code at a time.
 
-### About Us
+## About Us
 
 **Who We Are**: Meet our team of seasoned professionals who have traversed the medical landscape, from developing groundbreaking medical devices to publishing clinical research. 
 
